@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "outDir": "./dist",
+        "noEmitOnError": true,
+        "strictNullChecks": true,
+        "allowJs": true,
+        "checkJs": true,
+    }
+}
