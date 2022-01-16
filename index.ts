@@ -92,7 +92,7 @@ function identity<T>(obj: T){
 }
 
 console.log(identity<string>("spiff"))
-console.log(identity<number>(15))
+console.log(identity<number>(15));
 
 
 
